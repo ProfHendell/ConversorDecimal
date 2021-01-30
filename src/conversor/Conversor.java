@@ -34,6 +34,10 @@ public class Conversor {
         return new StringBuilder(buffer).reverse().toString();
     }
 
+    /**
+     *
+     * @param binario
+     */
     public static void bindec(double binario) {
 
     }
